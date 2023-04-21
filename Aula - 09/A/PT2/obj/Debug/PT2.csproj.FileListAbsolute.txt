@@ -1,0 +1,8 @@
+C:\Users\unisanta\source\repos\PT2\PT2\bin\Debug\PT2.exe.config
+C:\Users\unisanta\source\repos\PT2\PT2\bin\Debug\PT2.exe
+C:\Users\unisanta\source\repos\PT2\PT2\bin\Debug\PT2.pdb
+C:\Users\unisanta\source\repos\PT2\PT2\obj\Debug\PT2.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\PT2\PT2\obj\Debug\PT2.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\PT2\PT2\obj\Debug\PT2.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\PT2\PT2\obj\Debug\PT2.exe
+C:\Users\unisanta\source\repos\PT2\PT2\obj\Debug\PT2.pdb
